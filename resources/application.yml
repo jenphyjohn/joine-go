@@ -1,0 +1,6 @@
+app:
+  name: joine-go
+  mode: dev
+server:
+  port: 8080
+  contextPath: /
